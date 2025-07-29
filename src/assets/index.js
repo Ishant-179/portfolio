@@ -32,7 +32,7 @@ import SpaceX from "./company/SpaceX.png";
 
 import super60 from "./company/super-60.png";
 import ecommerce from "./company/e-commerce.png";
-import eventOrganiser from "./company/event-Organiser.png";
+import eventOrganiser from "./company/event-organiser.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
