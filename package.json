@@ -22,7 +22,7 @@
     "react-tilt": "^1.0.2",
     "react-vertical-timeline-component": "^3.5.3",
     "sonner": "^2.0.6",
-    "three": "^0.158.0"
+    "three": "^0.178.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
